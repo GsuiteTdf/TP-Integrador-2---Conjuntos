@@ -39,7 +39,9 @@ Cada bloque de funcionalidad está organizado en funciones claras y se complemen
 
 Link al Documento de entrega del TP Integrador N° 2: [https://drive.google.com/file/d/1CJjV7KVJC0ZaG9ZHzTJ9duAutVV-cRYp/view?usp=sharing](https://drive.google.com/file/d/19Peygar74aTEMXQmR6iOXKj0S0oQGxN1/view?usp=sharing) 
 
-Link al video de youtube: 
+
 Link al Documento adicional requerido: [https://docs.google.com/spreadsheets/d/1sddy2vU8RJfI-21c1U90ASUr_QJZfzyH/edit?usp=sharing&ouid=115299476160063446577&rtpof=true&sd=true](https://drive.google.com/file/d/1eqRZHqZqEHCNDnHFhqbZ0JEIk-paWCd9/view?usp=sharing)
 
 Link de la presentacion power point del video: https://drive.google.com/file/d/1b5a0yL8s4lQ9wjYo9Nv7tF2TMD7iykye/view?usp=sharing
+
+Link al video de youtube: 
