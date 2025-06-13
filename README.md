@@ -44,4 +44,4 @@ Link al Documento adicional requerido: [https://docs.google.com/spreadsheets/d/1
 
 Link de la presentacion power point del video: https://drive.google.com/file/d/1b5a0yL8s4lQ9wjYo9Nv7tF2TMD7iykye/view?usp=sharing
 
-Link al video de youtube: 
+Link al video de youtube: https://youtu.be/gC-qdafLVSU?si=ILQGgh4yh5TtPZ6e 
